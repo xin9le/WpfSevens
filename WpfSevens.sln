@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfSevens", "WpfSevens\WpfSevens.csproj", "{CE777C80-D7BA-46C8-978B-65898594178A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleSevens", "ConsoleSevens\ConsoleSevens.csproj", "{F0A712EB-8EFD-4477-93E8-E324EE6A93C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{CE777C80-D7BA-46C8-978B-65898594178A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE777C80-D7BA-46C8-978B-65898594178A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE777C80-D7BA-46C8-978B-65898594178A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0A712EB-8EFD-4477-93E8-E324EE6A93C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0A712EB-8EFD-4477-93E8-E324EE6A93C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0A712EB-8EFD-4477-93E8-E324EE6A93C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0A712EB-8EFD-4477-93E8-E324EE6A93C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

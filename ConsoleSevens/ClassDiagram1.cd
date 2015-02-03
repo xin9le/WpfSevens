@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="小島.プログラム">
+    <Position X="1" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>プログラム.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="小島.ゲームランナー">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Class Name="小島.ゲームランナー.スコア">
+        <TypeIdentifier>
+          <NewMemberFileName>ゲームランナー.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ゲームランナー.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="小島.ゲーム">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAJAIAAAEAAAAAAAAgAAAAAAAAgAAAAIAAEAAQCA=</HashCode>
+      <FileName>ゲーム.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfSevens.PlayerIshino" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAgAAAAAAACAAAAAAAAAAEAAAIAAAAEAAIAAAAAAAA=</HashCode>
+      <FileName>PlayerIshino.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfSevens.PlayerKojima" Collapsed="true">
+    <Position X="9.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAACQAAAAAAAAAEAAAIAAAAEAAIAAAAAAAA=</HashCode>
+      <FileName>PlayerKojima.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfSevens.PlayerSuzuki" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAYAAAAAAAA=</HashCode>
+      <FileName>PlayerSuzuki.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfSevens.Table" Collapsed="true">
+    <Position X="7.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAggAAASCAAQAAAEAAAAACAAQAEASQAAGAAgAAAE=</HashCode>
+      <FileName>Table.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="WpfSevens.IPlayer" Collapsed="true">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>IPlayer.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Meiryo UI" Size="9" />
+</ClassDiagram>
