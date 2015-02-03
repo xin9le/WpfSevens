@@ -23,10 +23,9 @@ WPF 製で作られた七並べゲームです。AI (= CPU Player) の作成を�
 
 | コード | 氏名 | ハンドル名 |
 |---|---|---|
-| [PlayerIshino.cs](https://github.com/xin9le/WpfSevens/blob/master/WpfSevens/PlayerIshino.cs) | 石野 光仁 | [@AILight](https://twitter.com/AILight) |
-| [PlayerKojima.cs](https://github.com/xin9le/WpfSevens/blob/master/WpfSevens/PlayerKojima.cs) | 小島 富治雄 | [@Fujiwo](https://twitter.com/Fujiwo) |
+| [PlayerIshino.cs](https://github.com/xin9le/WpfSevens/blob/master/WpfSevens/PlayerIshino.cs)<br/>WpfSevens | 石野 光仁 | [@AILight](https://twitter.com/AILight) |
+| [PlayerKojima.cs](https://github.com/xin9le/WpfSevens/blob/master/WpfSevens/PlayerKojima.cs)<br/>ConsoleSevens | 小島 富治雄 | [@Fujiwo](https://twitter.com/Fujiwo) |
 | [PlayerSuzuki.cs](https://github.com/xin9le/WpfSevens/blob/master/WpfSevens/PlayerSuzuki.cs) | 鈴木 孝明 | [@xin9le](https://twitter.com/xin9le) |
-| その他すべて | 石野 光仁 | [@AILight](https://twitter.com/AILight) |
 
 
 
